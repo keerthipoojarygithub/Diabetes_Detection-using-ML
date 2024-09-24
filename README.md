@@ -1,5 +1,5 @@
 # Diabetes_Detection-using-ML
-VTU 5th SEM MiniProject
+VTU 6th SEM MiniProject
 # Diabetes Detection using Machine Learning
 
 This project aims to predict whether a person has diabetes using various machine learning algorithms based on input parameters such as pregnancies, glucose level, blood pressure, skin thickness, insulin, BMI, and more. The web application is developed using Django, integrated with machine learning models.
